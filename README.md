@@ -1,16 +1,12 @@
-
-<h3 align="left">🎶 Music:</h3>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21l3pkcrjfipcc4jb3ktsp6ya)
+<h3 align="left">📊 GitHub Stats:</h3>
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiliria280802&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabiliria280802&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fabiliria280802&theme=2077" height="180em" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fabiliria280802&theme=2077" height="180em" />
 </div>
 
 <h3 align="left">🛠 Language and tools</h3>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
