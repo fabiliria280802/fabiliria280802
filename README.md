@@ -1,12 +1,13 @@
 <h1>Hi, I'm Fabiana Liria</h1>
 <h3 align="left">📊 About me:</h3>
-<div>
-  <il>🔭 I’m currently working at 
-    <a href="https://deuna.app/">Deuna App</a> as a Data & TI intern
-  </il></br>
-  <il>🌱 I’m currently learning more about web dev</il></br>
-  <il>👯 I’m looking to collaborate on algorithm challenges</il></br>
-  <il>😄 Pronouns: she/her</il>
+<div align="left">
+    <il>🔭 I’m currently working at 
+      <a href="https://deuna.app/">Deuna App</a> as a Data & TI intern.
+    </il></br>
+    <il>🌱 I’m currently learning more about web dev.</il></br>
+    <il>👯 I’m looking to collaborate on algorithm challenges.</il></br>
+    <il>😄 Pronouns: she/her.</il>
+    </div>
 </div>
 
 <h3 align="left">📊 GitHub Stats:</h3>
@@ -74,6 +75,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" height="40" alt="xamarin logo"  />
 </div>
 
-<h3>🎧 Spotify Playing</h3>
 
-[<img src="https://spotify-recently-played-readme.vercel.app/api?user=21l3pkcrjfipcc4jb3ktsp6ya" width="350" />]()
