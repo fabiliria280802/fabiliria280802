@@ -1,5 +1,5 @@
 <h1>Hi, I'm Fabiana Liria</h1>
-<h3 align="left">📊 About me:</h3>
+<h3 align="left">😊 About me:</h3>
 <div align="left">
     <il>🔭 I’m currently working at 
       <a href="https://deuna.app/">Deuna App</a> as a Data & TI intern.
