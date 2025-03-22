@@ -2,9 +2,9 @@
 <h3 align="left">😊 About me:</h3>
 <div align="left">
     <il>🔭 I’m currently working at 
-      <a href="https://deuna.app/">Deuna App</a> as a Junior Dev.
+      <a href="https://deuna.app/">Deuna App</a> as a Software specialist.
     </il></br>
-    <il>🌱 I’m currently learning more about web dev.</il></br>
+    <il>🌱 I’m currently learning more about rust.</il></br>
     <il>👯 I’m looking to collaborate on algorithm challenges.</il></br>
     <il>😄 Pronouns: she/her.</il>
     </div>
