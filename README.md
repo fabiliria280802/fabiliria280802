@@ -12,7 +12,6 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fabiliria280802&theme=2077" height="200em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fabiliria280802&theme=2077" height="200em" />
 </div>
 
